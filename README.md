@@ -5,7 +5,7 @@ Unofficial and Experimental: Do not rely on this!
 
 ## nhc_vdm.py
 
-Plots vortex data for a single hurricane (URLs or files)
+Plots vortex data (mainly only shape, size, open characteristic) for a single hurricane (URLs or files)
 
 Francine (2024) example (unofficial):
 
